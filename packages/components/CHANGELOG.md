@@ -5,6 +5,7 @@
 ### Deprecations
 
 -   `DimensionControl`: Deprecate 36px default size ([#66705](https://github.com/WordPress/gutenberg/pull/66705)).
+-   `TextControl`: Deprecate 36px default size ([#66745](https://github.com/WordPress/gutenberg/pull/66745).
 
 ### Bug Fixes
 
