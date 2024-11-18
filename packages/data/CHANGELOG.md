@@ -6,7 +6,7 @@
 
 -   Upgrade `redux` dependency to `^5.0.1` ([#66966](https://github.com/WordPress/gutenberg/pull/66966))
 
-## 10.12.0 (2024-11-16)>>>>>>> 854d8c7a61 (Update changelog files)
+## 10.12.0 (2024-11-16)
 
 ## 10.11.0 (2024-10-30)
 
