@@ -30,6 +30,7 @@
 ### Deprecations
 
 -   `Radio`: Deprecate 36px default size ([#66572](https://github.com/WordPress/gutenberg/pull/66572)).
+-   `ComboboxControl`: Deprecate 36px default size ([#66900](https://github.com/WordPress/gutenberg/pull/66900)).
 
 ### Bug Fixes
 
