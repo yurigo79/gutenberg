@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fixes
+
+-  `FormFileUpload`: Prevent HEIC and HEIF files from being uploaded on Safari ([#67139](https://github.com/WordPress/gutenberg/pull/67139)).
+
 ### Deprecations
 
 -   `DimensionControl`: Deprecate 36px default size ([#66705](https://github.com/WordPress/gutenberg/pull/66705)).
