@@ -125,6 +125,7 @@ export function useHistory() {
 				! options.transition
 			) {
 				performPush();
+				return;
 			}
 
 			await new Promise< void >( ( resolve ) => {
