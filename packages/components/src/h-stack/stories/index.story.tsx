@@ -46,10 +46,10 @@ const meta: Meta< typeof HStack > = {
 	id: 'components-experimental-hstack',
 	argTypes: {
 		as: {
-			control: { type: null },
+			control: { type: false },
 		},
 		children: {
-			control: { type: null },
+			control: { type: false },
 		},
 		alignment: {
 			control: { type: 'select' },

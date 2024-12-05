@@ -18,9 +18,9 @@ const meta: Meta< typeof FormFileUpload > = {
 	id: 'components-formfileupload',
 	component: FormFileUpload,
 	argTypes: {
-		icon: { control: { type: null } },
-		onChange: { action: 'onChange', control: { type: null } },
-		onClick: { control: { type: null } },
+		icon: { control: { type: false } },
+		onChange: { action: 'onChange', control: { type: false } },
+		onClick: { control: { type: false } },
 	},
 	parameters: {
 		controls: { expanded: true },
